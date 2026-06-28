@@ -1,0 +1,25 @@
+.mav-width-logo{
+    width: 100px;
+    height: 100px;
+}
+.mav-busqueda{
+    width: 500px;
+    height: 45px;
+    border-radius: 5px;
+}
+.mav-icoms{
+    width: 90px;
+}
+.mav-con{
+    margin-right: 23px;
+}
+.mav-bg{
+    background-color: #B22222;
+}
+.mav-btn{
+    width: 80px;
+    border-radius: 50px;
+}
+.mav-height{
+    height: 280px;
+}
